@@ -1,7 +1,7 @@
 # hello-world
 Just another repository
 
-![](https://cloud.githubusercontent.com/assets/7140278/18889946/1cf9357a-84b4-11e6-8646-acf25a3c38f0.png)
+![](https://raw.githubusercontent.com/ericliaswilson/hello-world/master/2017-01-20%2015.06.24.gif)
 
 ## Usage
 
