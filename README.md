@@ -1,7 +1,7 @@
 # hello-world
 Just another repository
 
-![](https://raw.githubusercontent.com/ericliaswilson/hello-world/master/2017-01-20%2015.06.24.gif =375x689)
+![](https://raw.githubusercontent.com/ericliaswilson/hello-world/master/Checklists%20Demo.gif)
 
 ## Usage
 
