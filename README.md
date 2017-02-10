@@ -15,10 +15,8 @@ Hello World is a universal iOS app written with Swift 3.0, and built with Xcode 
 
 ## About
 
-Computer Science 1
-
-Westminster Academy
-
+Computer Science 1  
+Westminster Academy  
 Fort Lauderdale, FL
 
 ## License
