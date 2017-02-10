@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
+My First Repository
 
 ![](https://raw.githubusercontent.com/ericliaswilson/hello-world/master/Checklists%20Demo.gif)
 
@@ -12,6 +12,12 @@ Just another repository
 ## Compatibility
 
 Hello World is a universal iOS app written with Swift 3.0, and built with Xcode 8.0 for iOS 10.0 or later.
+
+## About
+
+Computer Science 1
+Westminster Academy
+Fort Lauderdale, FL
 
 ## License
 
